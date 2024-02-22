@@ -1,4 +1,6 @@
-# CyberRun
+# CyberRunner
+
+<img width="397" alt="image" src="https://github.com/GCHOfficial/CyberRunner/assets/14996396/85e7e6a1-4ac0-4eef-916d-801179229d2b">
 
 ## Overview
 Dive into the streets of a cyberpunk future in **CyberRun**, a simple 2D endless runner developed with the powerful Raylib framework. In this fast-paced adventure, players navigate through a city overrun by surveillance drones, where every second alive pushes the limits of your reflexes and strategy. Your objective is simple yet challenging: survive as long as possible and rack up a high score in a world where the odds are stacked against you.
